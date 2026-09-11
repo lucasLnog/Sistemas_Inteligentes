@@ -1,0 +1,2 @@
+instance,number_of_cities,number_of_runs,population_size,number_of_generations,tournament_size,crossover_rate,mutation_rate,elite_size,best_run,best_ga_seed,best_cost,worst_cost,mean_cost,median_cost,cost_standard_deviation,mean_execution_time,mean_improvement_percentage,number_of_evaluations,best_route
+tsp_sample.csv,25,30,100,500,3,0.9,0.05,1,30,GA-30,4963.473950226503,6330.705655823953,5566.973937624073,5531.1865277066045,372.906851503521,0.9455760533339344,49.41109189313035,50000,"[0, 9, 6, 5, 15, 20, 2, 4, 14, 22, 21, 19, 3, 12, 8, 1, 17, 11, 18, 23, 7, 16, 10, 13, 24]"
